@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1489663222 source:d:\github\cpp\clienttscale\clienttscale.cpp
+	<stdio.h>
+	<iostream>
+	<winsock.h>
+

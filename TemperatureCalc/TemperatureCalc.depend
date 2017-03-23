@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1489666393 source:d:\github\cpp\temperaturecalc\servtcalc.cpp
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<winsock.h>
+	<sstream>
+
